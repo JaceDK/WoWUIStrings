@@ -1,0 +1,1 @@
+This is a repo for my WoW UI strings. If you want to use the ELVUI string, you must also download skullflowerUI found here: https://www.dropbox.com/s/tzb865nl7pnw1gh/ElvUI_Skullflower.zip?dl=0
